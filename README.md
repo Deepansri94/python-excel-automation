@@ -40,6 +40,5 @@ Use this script as a base for:
 
 ## 📫 Let’s Connect
 If you’d like a custom automation for your specific Excel tasks, feel free to reach out.  
-This is a sample of what I offer in my **freelance gigs**!
 
 **Happy Automating!**
